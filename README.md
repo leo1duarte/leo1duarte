@@ -1,7 +1,5 @@
 
 
-![](https://github.com/leo1duarte/tedlasso.gif)
-
 ![](tedlasso.gif)
 
 <!--
