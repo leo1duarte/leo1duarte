@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+![](https://github.com/leo1duarte/tedlasso.gif)
+
 
 <!--
 **leo1duarte/leo1duarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github.com/leo1duarte/tedlasso.gif)
+
